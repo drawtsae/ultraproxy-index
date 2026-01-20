@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "title": "Proxy Residential P2P – Giải pháp Proxy tốt nhất cho MMO",
+    "description": "{business_name} cung cấp proxy residential P2P an toàn, hiệu suất cao cho MMO và marketing. Truy cập toàn cầu, độ trễ thấp, kết nối ổn định với hàng triệu IP thật."
+  },
+  "common": {
+    "learnMore": "Tìm Hiểu Thêm",
+    "getStarted": "Bắt Đầu",
+    "contactUs": "Liên Hệ",
+    "readMore": "Xem Thêm",
+    "buyNow": "Mua Ngay",
+    "tryFree": "Dùng Thử"
+  },
+  "nav": {
+    "home": "TRANG CHỦ",
+    "pricing": "GIÁ",
+    "caseStudy": "CASE STUDY",
+    "country": "QUỐC GIA",
+    "contact": "LIÊN HỆ",
+    "faq": "FAQ",
+    "cookiePolicy": "Cookie Policy",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "refundService": "Refund Service"
+  },
+  "hero": {
+    "title": "Residential Proxy P2P",
+    "subtitle": "Giải pháp Proxy tốt nhất cho MMO",
+    "description": "Hơn 62 triệu IP proxy tại hơn 220 quốc gia và thành phố, mang đến kết nối liền mạch, an toàn và ổn định cho mọi nhu cầu online.",
+    "cta": "BẮT ĐẦU",
+    "viewPrice": "XEM GIÁ - TỪ $0.99",
+    "features": {
+      "transparent": {
+        "title": "Proxy Minh Bạch",
+        "description": "Proxy minh bạch giúp tăng bảo mật và tối ưu hiệu năng kết nối."
+      },
+      "noLogs": {
+        "title": "Không Lưu Log",
+        "description": "Chính sách không lưu log đảm bảo quyền riêng tư, không ghi hoạt động của bạn để giữ dữ liệu luôn an toàn."
+      },
+      "fastConnection": {
+        "title": "Kết Nối Nhanh",
+        "description": "Tận hưởng tốc độ nhanh với proxy tối ưu. Giảm độ trễ và cải thiện phản hồi cho việc duyệt web, xem video và làm việc ổn định."
+      }
+    }
+  },
+  "pricing": {
+    "flashSale": "GIẢM GIÁ SỐC 20%",
+    "title": "Giá proxy theo ngày",
+    "subtitle": "Chỉ trả cho những ngày bạn dùng, không cam kết dài hạn. Trải nghiệm kết nối mượt mà với IP từ mạng lưới phân tán toàn cầu.",
+    "plans": {
+      "ipv6": {
+        "title": "Proxy IPv6",
+        "unit": "Gigabytes",
+        "price": "$0.04"
+      },
+      "rotation": {
+        "title": "Residential Luân Phiên",
+        "unit": "Ngày",
+        "price": "$0.20"
+      },
+      "static": {
+        "title": "Residential Tĩnh",
+        "unit": "Ngày",
+        "price": "$5"
+      },
+      "unlimited": {
+        "title": "Unlimited Proxy",
+        "unit": "Không Giới Hạn",
+        "price": "$255"
+      }
+    },
+    "features": {
+      "httpSupport": "Hỗ trợ HTTP/HTTPS",
+      "exportPorts": "Xuất: 10,000 cổng proxy",
+      "ipRotation": "Luân phiên IP: mỗi 10 phút",
+      "unlimitedRotations": "Luân phiên IP không giới hạn",
+      "unlimitedBandwidth": "Băng thông không giới hạn",
+      "speed": "Tốc độ lên đến 50 Mbps"
+    },
+    "certificate": "Trung tâm dữ liệu và nhà mạng đạt chuẩn"
+  },
+  "contact": {
+    "tag": "LIÊN HỆ",
+    "title": "Cần hỗ trợ từ người thật?",
+    "anyQuestions": "Có câu hỏi nào?",
+    "description": "Chúng tôi luôn sẵn sàng hỗ trợ và trả lời mọi thắc mắc của bạn. Điền form hoặc gửi email đến",
+    "wantCollaborate": "Muốn hợp tác?",
+    "collaborateDescription": "Gửi email để liên hệ đội ngũ kinh doanh",
+    "phone": "(+84) 327 072 120",
+    "address": "117 Nguyễn Du, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh 700000"
+  },
+  "faqs": {
+    "tag": "FAQs",
+    "title": "Tất cả câu hỏi, đã có lời đáp",
+    "questions": {
+      "q1": {
+        "question": "{business_name} cung cấp những loại proxy nào?",
+        "answer": "{business_name} cung cấp nhiều loại proxy: residential, datacenter và mobile. Mỗi loại phù hợp cho các nhu cầu như scraping, kiểm tra quảng cáo hoặc quản lý nhiều tài khoản."
+      },
+      "q2": {
+        "question": "Proxy là gì và hoạt động thế nào?",
+        "answer": "Proxy là một máy chủ trung gian giữa thiết bị và internet, giúp chuyển tiếp yêu cầu web và nhận phản hồi. {business_name} cung cấp gói proxy luân phiên theo phút, giúp bảo vệ danh tính và tăng mức độ an toàn."
+      },
+      "q3": {
+        "question": "{business_name} có phù hợp cho các tác vụ lớn như web scraping?",
+        "answer": "Hoàn toàn phù hợp! Proxy của {business_name} được thiết kế để vượt qua phát hiện, kết nối ổn định – lý tưởng cho thu thập dữ liệu quy mô lớn mà không lo bị chặn."
+      },
+      "q4": {
+        "question": "Làm sao để bắt đầu với {business_name}?",
+        "answer": "Rất đơn giản! Tạo tài khoản, chọn gói proxy phù hợp và làm theo hướng dẫn thiết lập. Nếu gặp vấn đề, đội hỗ trợ 24/7 luôn sẵn sàng."
+      }
+    }
+  },
+  "topCountries": {
+    "title": "Các quốc gia có nhu cầu proxy cao",
+    "subtitle": "Chọn proxy tốt nhất tại mọi thành phố hoặc quốc gia bạn biết.",
+    "ips": "IPs"
+  },
+  "partnerships": {
+    "title": "Đối Tác",
+    "subtitle": "Được tin dùng bởi nhiều công ty hàng đầu",
+    "disclaimer": "Lưu ý: Người dùng chịu trách nhiệm cho việc sử dụng hợp pháp dịch vụ proxy. Chúng tôi không chịu trách nhiệm cho việc sử dụng sai mục đích."
+  },
+  "caseStudies": {
+    "title": "Case Studies",
+    "subtitle": "Dịch vụ proxy P2P mang lại trải nghiệm duyệt web linh hoạt, nhanh và đáng tin cậy.",
+    "items": {
+      "adVerification": "Xác minh quảng cáo",
+      "fastShopping": "Mua sắm nhanh",
+      "pricingMonitoring": "Theo dõi giá",
+      "network": "Mạng lưới",
+      "talentSourcing": "Tìm nguồn nhân lực",
+      "dataCollection": "Thu thập dữ liệu",
+      "verification": "Xác minh",
+      "marketResearch": "Nghiên cứu thị trường"
+    }
+  },
+  "resellers": {
+    "title": "Bắt đầu với chương trình bán hàng của {business_name}",
+    "subtitle": "Tham gia chương trình đối tác",
+    "button": "Bắt Đầu",
+    "description": "Giải pháp tiết kiệm và an toàn nhất để khởi nghiệp với proxy – đừng bỏ lỡ!"
+  },
+  "trustedBy": {
+    "title": "Được nhiều doanh nghiệp tin dùng để nâng cao trải nghiệm và hiệu quả.",
+    "subtitle": "Các công ty tin tưởng dịch vụ của chúng tôi"
+  },
+  "footer": {
+    "description": "{business_name} cung cấp proxy residential giúp truy cập internet ẩn danh và an toàn, hỗ trợ các tác vụ như scraping và nghiên cứu thị trường với tốc độ cao và ổn định.",
+    "extensions": {
+      "chrome": "CHROME",
+      "windows": "WINDOWS",
+      "ios": "IOS",
+      "android": "ANDROID",
+      "downloadFor": "TẢI CHO",
+      "extensionsFor": "TIỆN ÍCH CHO"
+    },
+    "account": {
+      "title": "Tài Khoản",
+      "createAccount": "Tạo Tài Khoản",
+      "login": "Đăng Nhập"
+    },
+    "affiliate": {
+      "title": "Đối Tác",
+      "resellerProgram": "Chương Trình Reseller",
+      "linkProgram": "Affiliate"
+    },
+    "category": {
+      "title": "Danh Mục",
+      "faqs": "FAQs",
+      "pricing": "Giá",
+      "contact": "Liên hệ"
+    },
+    "serviceTerm": {
+      "title": "Điều Khoản",
+      "privacyPolicy": "Privacy Policy",
+      "cookiePolicy": "Cookie Policy",
+      "termsOfService": "Terms of Service",
+      "refundPolicy": "Refund Policy"
+    }
+  }
+}

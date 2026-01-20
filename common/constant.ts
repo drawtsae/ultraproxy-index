@@ -1,0 +1,20 @@
+export const locales = [
+  { code: "en", name: "English", flag: "🇺🇸", subLabel: "" },
+  { code: "vi", name: "Tiếng Việt", flag: "🇻🇳", subLabel: "Vietnamese" },
+  { code: "zh", name: "简体中文", flag: "🇨🇳", subLabel: "Chinese" },
+  { code: "hi", name: "हिन्दी", flag: "🇮🇳", subLabel: "Hindi" },
+  { code: "ar", name: "العربية", flag: "🇸🇦", subLabel: "Arabic" },
+  { code: "ru", name: "Русский", flag: "🇷🇺", subLabel: "Russian" },
+  { code: "bn", name: "বাংলা", flag: "🇧🇩", subLabel: "Bengali" },
+  { code: "id", name: "Bahasa", flag: "🇮🇩", subLabel: "Indonesia" },
+  { code: "th", name: "ไทย", flag: "🇹🇭", subLabel: "Thai" },
+  { code: "tr", name: "Türkçe", flag: "🇹🇷", subLabel: "Turkish" },
+  { code: "ph", name: "Filipino", flag: "🇵🇭", subLabel: "Filipino" },
+  {
+    code: "br",
+    name: "Português",
+    flag: "🇧🇷",
+    subLabel: "Brazil",
+  },
+  { code: "fa", name: "فارسی", flag: "🇮🇷", subLabel: "Persian" },
+] as const;
