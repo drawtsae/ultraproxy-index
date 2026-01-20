@@ -442,6 +442,6 @@ MIT License - Xem file [LICENSE](LICENSE) để biết thêm chi tiết.
 
 ### ⭐ Nếu dự án hữu ích, hãy cho một Star!
 
-**Made with ❤️ by [NetProxy Team](https://prx.network)**
+**Made with ❤️ by [NetProxy Team](https://netproxy.io)**
 
 </div>
